@@ -1,2 +1,13 @@
 # Estudos-Faculdade
 Estudos Faculdade 
+
+!DOCTYPE html>
+<html>   
+<head>
+  <meta charset="utf-8">
+  <title>Título da minha página</title>
+</head> 
+<body>
+    <p>Olá Mundo! Esta é minha primeira página web</p>
+</body> 
+</html>
